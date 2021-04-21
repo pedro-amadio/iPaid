@@ -1,0 +1,7 @@
+{
+  "name": "iPaid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
